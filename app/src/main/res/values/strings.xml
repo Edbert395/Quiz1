@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LatihanKelas</string>
+    <string name="col1">Nama</string>
+    <string name="row1">Edbert Muis</string>
+    <string name="col2">NIM</string>
+    <string name="row2">03081220022</string>
+    <string name="col3">Jurusan</string>
+    <string name="row3">Sistem Informasi</string>
+    <string name="col4">Hobi</string>
+    <string name="row4">Belajar bahasa jepang, olahraga</string>
+    <string name="button1">OK</string>
+</resources>
